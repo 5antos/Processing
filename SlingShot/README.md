@@ -1,6 +1,6 @@
 <h1>📜 Description</h1>
 
-Visual and playable representation of a slingshot with the purpose of shooting birds with stones.
+Playable slingshot with the purpose of shooting birds with stones.
 
 _Poor birds._
 
