@@ -1,6 +1,6 @@
 <h1>📜 Description</h1>
 
-Playable recriation of the famous [John Conway’s Game of Life](https://playgameoflife.com/info).
+Playable recreation of the famous [John Conway’s Game of Life](https://playgameoflife.com/info).
 
 
 
