@@ -10,3 +10,4 @@ _Poor birds._
 
 - `S`: Shoots the stone
 - `R`: Resets the current shot
+- `Mouse-position`: Aim
